@@ -14,10 +14,8 @@
 //수정시 기존 소스 삭제 자제
 
 
-char buf[100];
+char buf[2000];
 void MemoryDump(int start, int length);  //함수의 원형 Prototype  
-
-
 
 
 
