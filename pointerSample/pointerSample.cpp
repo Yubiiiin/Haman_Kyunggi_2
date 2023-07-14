@@ -15,7 +15,7 @@
 
 
 char buf[100];
-void MemoryDump(int start, int length);  //함수의 원형 Prototype
+void MemoryDump(int start, int length);  //함수의 원형 Prototype  
 
 
 
